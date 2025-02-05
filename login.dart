@@ -1,4 +1,5 @@
 main (){
     var name = " ";
-    print("login file");
+    var password = " ";
+    print("login file created");
 }
